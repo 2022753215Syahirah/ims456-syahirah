@@ -1,0 +1,53 @@
+@charset "utf-8";
+/*CSS LAYOUT*/
+
+
+/* Background */
+.page {body background="image/back.jpg"; width:70;  padding:10px;}
+
+/* Header Section */
+.header{background-color:#white; padding:5px; border-style:dotted ;}
+
+.social-sites {display:inline-block; position:relative; margin-left:300px; top:-20px;}
+
+
+/* 1st Section */
+main {background-color:#B2BEB5; border-bottom-style:groove ; padding:10px; margin:10px; width:70%; float:left;}
+
+.post-one {color:#black ;border-style:dashed ;  padding:8px ;}
+
+h2{color:#7C3030; font-family:"Calibri", cursive ; background-color:#F5F5DC  ;}
+
+p1 {color:#606; font-family:"Lucida Fax", Monaco, monospace;text-align: justify;}
+
+a:link {color: #EBF4FA;}
+
+a:visited {color:navy;
+          text-decoration:none;}
+
+.quotes {border-style:dotted ; background-color:#FCC ; text-align:center ;}
+
+
+/* 2nd Section */
+.post-two {color:#606 ; border-style:dashed  ; padding:8px ;}
+
+p {color:#606 ;font-family:"Gill Sans MT", Monaco, monospace ;}
+
+.post-three {color:#FCC ;border-style:dashed ; padding:8px}
+
+
+
+/* 3rd Section */
+.post-table { table-layout:auto ; border-style:dashed; color:#FCC ;}
+
+.post-four{color:#606 ;}
+
+p2 {color:#606 ; font-family:"Lucida Fax", Monaco, monospace  ;}
+
+
+
+/* Sidebar Section */
+.sidebar-home {background-color:#B2BEB5; padding:23px; width:22%; height:980px; float:right ;}
+
+/* Footer */
+.footer-end1 {background-color:#F5DEB3; padding:8px; clear:both;}
